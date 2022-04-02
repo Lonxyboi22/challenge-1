@@ -1,12 +1,35 @@
 ## Project Description
 ```
-This project is to demonstrate refactoring in the web develompent field. In this challenge, I refactored the original code in order to make the code easier to read and run more efficiently. Refactoring code allows for cleaner and more easily read code. 
+This project is to demonstrate 
+refactoring in the web develompent 
+field. In this challenge, I refactored 
+the original code in order to make the 
+code easier to read and run more 
+efficiently. Refactoring code allows 
+for cleaner and more easily read code. 
 
-In this challenge I changed a majority of <div> function pieces to their more specific tags such as <main>, <section>, <footer>, etc. The tags however did not interact with the styling or the functionality of the web page. The nice thing about changing the tags in the html document would be that it comes across as cleaner and more managable. 
+In this challenge I changed a majority 
+of <div> function pieces to their more 
+specific tags such as <main>, 
+<section>, <footer>, etc. The tags 
+however did not interact with the 
+styling or the functionality of the 
+web page. The nice thing about 
+changing the tags in the html document 
+would be that it comes across as 
+cleaner and more managable. 
 
-I also in this assignment changed/condensed the CSS code. Doing so it leads to a more functionally sound and easily read file. In that portion of the exercise, I mostly looked for repeating code and then edited the classes/added a new class in order to condense the existing CSS code. 
+I also in this assignment changed/
+condensed the CSS code. Doing so it 
+leads to a more functionally sound and 
+easily read file. In that portion of 
+the exercise, I mostly looked for 
+repeating code and then edited the 
+classes/added a new class in order to 
+condense the existing CSS code. 
 
-Below are the user story and the acceptance criteria I had to follow. 
+Below are the user story and the 
+acceptance criteria I had to follow. 
 
 ```
 
